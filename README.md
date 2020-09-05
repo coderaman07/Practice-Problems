@@ -34,8 +34,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## Authors
 
-* **Gautam Tarika** - *Initial work* - [Gautam Tarika](https://github.com/gautamtarika)
-* **Aman Ojha** - *Contributer* - [Aman Ojha](https://github.com/coderaman07)
+* **Aman Ojha** - *Initial work* - [Aman Ojha](https://github.com/coderaman07)
 
 ## License
 
