@@ -4,7 +4,7 @@ namespace C_
 {
     class PrintingTheResult
     {
-        public static void Main(String[] args){
+        public static void MainQuestion4(String[] args){
             Console.WriteLine(-1 + 4 * 6);
             Console.WriteLine(( 35+ 5 ) % 7);
             Console.WriteLine(14 + -4 * 6 / 11);
