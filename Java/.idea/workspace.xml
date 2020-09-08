@@ -20,12 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1c5e0ca-16bd-4c51-ab59-fb86cd6f8160" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../C#/PrintTheResultOfSpecifiedOperations.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../C#/PrintTheResultOfSpecifiedOperations.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C#/bin/Debug/netcoreapp3.1/C#.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../C#/bin/Debug/netcoreapp3.1/C#.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C#/bin/Debug/netcoreapp3.1/C#.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../C#/bin/Debug/netcoreapp3.1/C#.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C#/obj/Debug/netcoreapp3.1/C#.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../C#/obj/Debug/netcoreapp3.1/C#.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C#/obj/Debug/netcoreapp3.1/C#.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../C#/obj/Debug/netcoreapp3.1/C#.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C#/obj/Debug/netcoreapp3.1/C#.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../C#/obj/Debug/netcoreapp3.1/C#.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
